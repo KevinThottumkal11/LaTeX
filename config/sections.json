@@ -48,10 +48,11 @@
         "subheadings": [
             {
                 "resumeItems": [
-                    "\\textbf{Languages}: Python, JavaScript, Java, C++, Go, SQL, TypeScript.",
-                    "\\textbf{Frameworks and Libraries}: Django, Flask, React, Node.js, TensorFlow, PyTorch.",
-                    "\\textbf{Tools and Platforms}: AWS, GCP, Docker, Kubernetes, Jenkins, Terraform.",
-                    "\\textbf{Techniques}: Machine Learning, Data Engineering, Cloud Architecture, Distributed Systems, Microservices."
+                    "\\textbf{Languages}: Python, JavaScript, Java, C#, PHP, SQL, TypeScript.",
+                    "\\textbf{Frameworks}: React/React Native, Node.js, .NET, FastAPI, REST API.",
+                    "\\textbf{Database}: MySQL, PostgreSQL, MS SQL Server, MongoDB, Redis.",
+                    "\\textbf{QA & Automation}: MyJest, JUnit, Postman, Selenium, Katalon Studio, Playwright.",
+                    "\\textbf{Tools and Platforms}: AWS (S3, EC2, Lambda), Git, Docker, Jira, Confluence, Bitbucket."
                 ]
             }
         ]
