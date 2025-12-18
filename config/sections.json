@@ -26,10 +26,10 @@
             {
                 "company": "Mohawk College",
                 "period": "January 2025 - April 2025",
-                "position": "Applied Reserach - Facial Recognition",
+                "position": "Applied Reserach (Facial Recognition)",
                 "location": "Hamilton, ON",
                 "resumeItems": [
-                    "Researched and developed a facial recognition & labeling system for historical military photographs using \\textbf{OpenCV}, and \\textbf{DeepFace} achieving \\textbf{100% accuracy} for portraits and small groups.",
+                    "Researched and developed a facial recognition & labeling system for historical military photographs using \\textbf{OpenCV}, and \\textbf{DeepFace} achieving \\textbf{100%} accuracy for portraits and small groups.",
                     "Built a full-stack application using \\textbf{React} with \\textbf{PHP} backend, and \\textbf{Python facial recognition pipeline} for image processing, data retrieval & management."
                 ]
             },
@@ -39,8 +39,9 @@
                 "position": "E-Health Programmer Analyst (Co-op)",
                 "location": "Hamilton, ON",
                 "resumeItems": [
-                    "",
-                    ""
+                    "Built a \\textbf{React/TypeScript} dashboard for healthcare data analysis and visualization following HIPAA security protocols.",
+                    "Collaborated on the develoment of an Android app using \\textbf{Kotlin & Jetpack Compose} with \\textbf{MVVM architecture}, improving load times by \\textbf{25%}.",
+                    "Developed a dynamic audio prompts system with \\textbf{AWS Polly} services, increasing engagement by \\textbf{60%} and reducing staff intervention."
                 ]
             }
         ]
@@ -53,7 +54,7 @@
                     "\\textbf{Languages}: Python, JavaScript, Java, C#, PHP, SQL, TypeScript.",
                     "\\textbf{Frameworks}: React/React Native, Node.js, .NET, FastAPI, REST API.",
                     "\\textbf{Database}: MySQL, PostgreSQL, MS SQL Server, MongoDB, Redis.",
-                    "\\textbf{QA & Automation}: MyJest, JUnit, Postman, Selenium, Katalon Studio, Playwright.",
+                    "\\textbf{QA & Automation}: Jest, JUnit, Postman, Selenium, Katalon Studio, Playwright.",
                     "\\textbf{Tools and Platforms}: AWS (S3, EC2, Lambda), Git, Docker, Jira, Confluence, Bitbucket."
                 ]
             }
