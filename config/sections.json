@@ -17,7 +17,7 @@
                 "location": "Montreal, QC (Remote)",
                 "resumeItems": [
                     "Built a MongoDB aggregation pipeline for data processing, achieving \\textbf{80% reduction in latency and 100% booking conflict detection}.",
-                    "Rebuilt \\textbf{Angular/TypeScript} frontend and \\textbf{Node.js} backend, improving page load times by //textbf{45%} and increasing user engagement by \\textbf{30%}.",
+                    "Rebuilt \\textbf{Angular/TypeScript} frontend and \\textbf{Node.js} backend, improving page load times by \\textbf{45%} and increasing user engagement by \\textbf{30%}.",
                     "Implemented a dynamic tenant visualization system with role-based access controls, eliminating tenant confusions and ensuring robust privacy and security standards.",
                     "Leading Angular upgrade from version 7 to 21, implementing unit tests with \\textbf{Jest} and maintaining \\textbf{CI/CD} pipeline for zero-downtime deployments.",
                     "Developing AI-powered tenant matching system by analyzing lifestyle preferences and compatibility scores of users."
