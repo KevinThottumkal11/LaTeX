@@ -60,7 +60,7 @@
                 "period": "",
                 "techstack": "React, Python, FastAPI, Gemini",
                 "resumeItems": [
-                    "Built a video analysis platform that converts YouTube lectures into interactive learning tools with cosine similarity search, achieving \\textbf{85%} accuracy in matching queries to relevant video segments.",
+                    "Built a video analysis platform that converts YouTube lectures into interactive learning tools with cosine similarity search, achieving \\textbf{85% accuracy} in matching queries to relevant video segments.",
                     "Created a Chrome extension integrating directly into YouTube interface for seamless user experience."
                 ]
             },
