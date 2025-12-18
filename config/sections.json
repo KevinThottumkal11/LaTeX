@@ -60,17 +60,17 @@
                 "period": "",
                 "techstack": "React, Python, FastAPI, Gemini",
                 "resumeItems": [
-                    "Developed a traffic monitoring system using computer vision algorithms in Python, achieving \\textbf{95%} accuracy in vehicle detection.",
-                    "Deployed the system on AWS with Lambda and S3 for scalable image processing, reducing processing costs by \\textbf{40%}."
+                    "Built a video analysis platform that converts YouTube lectures into interactive learning tools with cosine similarity search, achieving \\textbf{85%} accuracy in matching queries to relevant video segments.",
+                    "Created a Chrome extension integrating directly into YouTube interface for seamless user experience."
                 ]
             },
             {
                 "company": "Anti-Tetris",
                 "period": "",
-                "techstack": "React, WebSocket, Node.js",
+                "techstack": "React, Next.js, WebSocket, Node.js",
                 "resumeItems": [
-                    "Created a mobile application in React Native for tracking personal finances, with secure data storage using Firebase Authentication and Firestore.",
-                    "Integrated data visualization features to provide users with monthly spending insights, improving financial literacy for over 500 users."
+                    "Developed a multiplayer cybersecurity game with \\textbf{Next.js} and \\textbf{WebSocket} technology to enable real-time cyber-attack simulations.",
+                    "Created an innovative Tetris-based platform where players compete by executing and defending against simulated cyberattacks like DDoS and phishing in a multiplayer environment"
                 ]
             }
         ]
