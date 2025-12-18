@@ -11,10 +11,10 @@
         "sectionName": "Experience",
         "subheadings": [
             {
-                "company": "Amazon Web Services (AWS)",
-                "period": "June 2022 - September 2023",
-                "position": "Cloud Solutions Engineer",
-                "location": "Seattle, WA",
+                "company": "Hivenue",
+                "period": "January 2025 - Present",
+                "position": "Full Stack Engineer",
+                "location": "Montreal, QC (Remote)",
                 "resumeItems": [
                     "Led the design and implementation of a high-performance serverless architecture for multi-region deployment, reducing latency by \\textbf{30%} and improving user engagement by \\textbf{25%}.",
                     "Enhanced security compliance by automating access policies and deploying infrastructure monitoring with AWS CloudTrail and GuardDuty, resulting in a \\textbf{70%} reduction in security incident response time.",
@@ -22,20 +22,20 @@
                 ]
             },
             {
-                "company": "Tesla",
-                "period": "September 2021 - May 2022",
-                "position": "Embedded Systems Developer",
-                "location": "Palo Alto, CA",
+                "company": "Mohawk College",
+                "period": "January 2025 - April 2025",
+                "position": "Applied Reserach - Facial Recognition",
+                "location": "Hamilton, ON",
                 "resumeItems": [
                     "Developed and optimized firmware for in-vehicle infotainment systems, improving media response time by \\textbf{40%} and minimizing system crashes.",
                     "Designed and tested secure Over-the-Air (OTA) update functionality, increasing update reliability by \\textbf{85%} and reducing downtime during software patches."
                 ]
             },
             {
-                "company": "Spotify",
-                "period": "January 2021 - August 2021",
-                "position": "Software Engineer, Machine Learning",
-                "location": "New York, NY",
+                "company": "MEDIC, IdeaWorks (Mohawk College)",
+                "period": "January 2024 - August 2024",
+                "position": "E-Health Programmer Analyst (Co-op)",
+                "location": "Hamilton, ON",
                 "resumeItems": [
                     "Engineered a recommendation system using collaborative filtering and neural networks, increasing monthly user retention by \\textbf{20%}.",
                     "Implemented A/B testing frameworks that enabled rapid experimentation across recommendation models, reducing testing time by \\textbf{50%}."
