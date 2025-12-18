@@ -16,9 +16,11 @@
                 "position": "Full Stack Engineer",
                 "location": "Montreal, QC (Remote)",
                 "resumeItems": [
-                    "Led the design and implementation of a high-performance serverless architecture for multi-region deployment, reducing latency by \\textbf{30%} and improving user engagement by \\textbf{25%}.",
-                    "Enhanced security compliance by automating access policies and deploying infrastructure monitoring with AWS CloudTrail and GuardDuty, resulting in a \\textbf{70%} reduction in security incident response time.",
-                    "Built a customer analytics dashboard using Amazon QuickSight and Redshift, enabling real-time insights that improved customer satisfaction scores by \\textbf{15%}."
+                    "Built a MongoDB aggregation pipeline for data processing, achieving \\textbf{80% reduction in latency and 100% booking conflict detection}.",
+                    "Rebuilt \\textbf{Angular/TypeScript} frontend and \\textbf{Node.js} backend, improving page load times by //textbf{45%} and increasing user engagement by \\textbf{30%}.",
+                    "Implemented a dynamic tenant visualization system with role-based access controls, eliminating tenant confusions and ensuring robust privacy and security standards.",
+                    "Leading Angular upgrade from version 7 to 21, implementing unit tests with \\textbf{Jest} and maintaining \\textbf{CI/CD} pipeline for zero-downtime deployments.",
+                    "Developing AI-powered tenant matching system by analyzing lifestyle preferences and compatibility scores of users."
                 ]
             },
             {
@@ -37,8 +39,8 @@
                 "position": "E-Health Programmer Analyst (Co-op)",
                 "location": "Hamilton, ON",
                 "resumeItems": [
-                    "Engineered a recommendation system using collaborative filtering and neural networks, increasing monthly user retention by \\textbf{20%}.",
-                    "Implemented A/B testing frameworks that enabled rapid experimentation across recommendation models, reducing testing time by \\textbf{50%}."
+                    "",
+                    ""
                 ]
             }
         ]
