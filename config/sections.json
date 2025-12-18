@@ -27,8 +27,8 @@
                 "position": "Applied Reserach - Facial Recognition",
                 "location": "Hamilton, ON",
                 "resumeItems": [
-                    "Developed and optimized firmware for in-vehicle infotainment systems, improving media response time by \\textbf{40%} and minimizing system crashes.",
-                    "Designed and tested secure Over-the-Air (OTA) update functionality, increasing update reliability by \\textbf{85%} and reducing downtime during software patches."
+                    "Researched and developed a facial recognition & labeling system for historical military photographs using \\textbf{OpenCV}, and \\textbf{DeepFace} achieving \\textbf{100% accuracy} for portraits and small groups.",
+                    "Built a full-stack application using \\textbf{React} with \\textbf{PHP} backend, and \\textbf{Python facial recognition pipeline} for image processing, data retrieval & management."
                 ]
             },
             {
