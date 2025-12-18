@@ -1,44 +1,39 @@
 [
     {
-        "sectionName": "Professional Summary",
-        "subheadings": [
-            {
-                "rawText": "Professional with a passion for technology and innovation. Experienced in building scalable cloud solutions, developing embedded systems, and optimizing machine learning algorithms. Strong problem-solving and communication skills with a proven track record of delivering high-impact projects. Looking to leverage my expertise in cloud architecture and data engineering to drive business growth and innovation."
-            }
-        ]
-    },
-    {
         "sectionName": "Experience",
         "subheadings": [
             {
-                "company": "Amazon Web Services (AWS)",
-                "period": "June 2022 - September 2023",
-                "position": "Cloud Solutions Engineer",
-                "location": "Seattle, WA",
+                "company": "Hivenue",
+                "period": "January 2025 - Present",
+                "position": "Full Stack Engineer",
+                "location": "Montreal, QC (Remote)",
                 "resumeItems": [
-                    "Led the design and implementation of a high-performance serverless architecture for multi-region deployment, reducing latency by \\textbf{30%} and improving user engagement by \\textbf{25%}.",
-                    "Enhanced security compliance by automating access policies and deploying infrastructure monitoring with AWS CloudTrail and GuardDuty, resulting in a \\textbf{70%} reduction in security incident response time.",
-                    "Built a customer analytics dashboard using Amazon QuickSight and Redshift, enabling real-time insights that improved customer satisfaction scores by \\textbf{15%}."
+                    "Built a MongoDB aggregation pipeline for data processing, achieving \\textbf{80% reduction in latency and 100% booking conflict detection}.",
+                    "Rebuilt \\textbf{Angular/TypeScript} frontend and \\textbf{Node.js} backend, improving page load times by \\textbf{45%} and increasing user engagement by \\textbf{30%}.",
+                    "Implemented a dynamic tenant visualization system with role-based access controls, eliminating tenant confusions and ensuring robust privacy and security standards.",
+                    "Leading Angular upgrade from version 7 to 21, implementing unit tests with \\textbf{Jest} and maintaining \\textbf{CI/CD} pipeline for zero-downtime deployments.",
+                    "Developing AI-powered tenant matching system by analyzing lifestyle preferences and compatibility scores of users."
                 ]
             },
             {
-                "company": "Tesla",
-                "period": "September 2021 - May 2022",
-                "position": "Embedded Systems Developer",
-                "location": "Palo Alto, CA",
+                "company": "Mohawk College",
+                "period": "January 2025 - April 2025",
+                "position": "Applied Reserach (Facial Recognition)",
+                "location": "Hamilton, ON",
                 "resumeItems": [
-                    "Developed and optimized firmware for in-vehicle infotainment systems, improving media response time by \\textbf{40%} and minimizing system crashes.",
-                    "Designed and tested secure Over-the-Air (OTA) update functionality, increasing update reliability by \\textbf{85%} and reducing downtime during software patches."
+                    "Researched and developed a facial recognition & labeling system for historical military photographs using \\textbf{OpenCV}, and \\textbf{DeepFace} achieving \\textbf{100%} accuracy for portraits and small groups.",
+                    "Built a full-stack application using \\textbf{React} with \\textbf{PHP} backend, and \\textbf{Python facial recognition pipeline} for image processing, data retrieval & management."
                 ]
             },
             {
-                "company": "Spotify",
-                "period": "January 2021 - August 2021",
-                "position": "Software Engineer, Machine Learning",
-                "location": "New York, NY",
+                "company": "MEDIC, IDEAWORKS",
+                "period": "January 2024 - August 2024",
+                "position": "E-Health Programmer Analyst (Co-op)",
+                "location": "Hamilton, ON",
                 "resumeItems": [
-                    "Engineered a recommendation system using collaborative filtering and neural networks, increasing monthly user retention by \\textbf{20%}.",
-                    "Implemented A/B testing frameworks that enabled rapid experimentation across recommendation models, reducing testing time by \\textbf{50%}."
+                    "Built a \\textbf{React/TypeScript} dashboard for healthcare data analysis & visualization following HIPAA security protocols.",
+                    "Collaborated on the develoment of an Android app using \\textbf{Kotlin & Jetpack Compose} with \\textbf{MVVM architecture}, improving load times by \\textbf{25%}.",
+                    "Developed a dynamic audio prompts system with \\textbf{AWS Polly} services, increasing engagement by \\textbf{60%} and reducing staff intervention."
                 ]
             }
         ]
@@ -48,10 +43,11 @@
         "subheadings": [
             {
                 "resumeItems": [
-                    "\\textbf{Languages}: Python, JavaScript, Java, C++, Go, SQL, TypeScript.",
-                    "\\textbf{Frameworks and Libraries}: Django, Flask, React, Node.js, TensorFlow, PyTorch.",
-                    "\\textbf{Tools and Platforms}: AWS, GCP, Docker, Kubernetes, Jenkins, Terraform.",
-                    "\\textbf{Techniques}: Machine Learning, Data Engineering, Cloud Architecture, Distributed Systems, Microservices."
+                    "\\textbf{Languages}: Python, JavaScript, Java, C#, PHP, SQL, TypeScript.",
+                    "\\textbf{Frameworks}: React/React Native, Node.js, .NET, FastAPI, REST API.",
+                    "\\textbf{Database}: MySQL, PostgreSQL, MS SQL Server, MongoDB, Redis.",
+                    "\\textbf{QA & Automation}: Jest, JUnit, Postman, Selenium, Katalon Studio, Playwright.",
+                    "\\textbf{Tools and Platforms}: AWS (S3, EC2, Lambda), Git, Docker, Jira, Confluence, Bitbucket."
                 ]
             }
         ]
@@ -60,21 +56,21 @@
         "sectionName": "Projects",
         "subheadings": [
             {
-                "company": "Real-Time Traffic Monitoring System",
-                "period": "October 2022 - February 2023",
-                "techstack": "Python, AWS",
+                "company": "VideoMind-AI",
+                "period": "",
+                "techstack": "React, Python, FastAPI, Gemini",
                 "resumeItems": [
-                    "Developed a traffic monitoring system using computer vision algorithms in Python, achieving \\textbf{95%} accuracy in vehicle detection.",
-                    "Deployed the system on AWS with Lambda and S3 for scalable image processing, reducing processing costs by \\textbf{40%}."
+                    "Built a video analysis platform that converts YouTube lectures into interactive learning tools with cosine similarity search, achieving \\textbf{85% accuracy} in matching queries to relevant video segments.",
+                    "Created a Chrome extension integrating directly into YouTube interface for seamless user experience."
                 ]
             },
             {
-                "company": "Personal Finance Tracker",
-                "period": "July 2021 - September 2021",
-                "techstack": "React Native, Firestore",
+                "company": "Anti-Tetris",
+                "period": "",
+                "techstack": "React, Next.js, WebSocket, Node.js",
                 "resumeItems": [
-                    "Created a mobile application in React Native for tracking personal finances, with secure data storage using Firebase Authentication and Firestore.",
-                    "Integrated data visualization features to provide users with monthly spending insights, improving financial literacy for over 500 users."
+                    "Developed a multiplayer cybersecurity game with \\textbf{Next.js} and \\textbf{WebSocket} technology to enable real-time cyber-attack simulations.",
+                    "Created an innovative Tetris-based platform where players compete by executing and defending against simulated cyberattacks like DDoS and phishing in a multiplayer environment"
                 ]
             }
         ]
@@ -83,13 +79,13 @@
         "sectionName": "Education",
         "subheadings": [
             {
-                "company": "University of California, Berkeley",
-                "period": "September 2017 - May 2021",
-                "position": "Bachelor of Science in Computer Science",
-                "location": "Berkeley, CA",
+                "company": "Mohawk College",
+                "period": "January 2023 - December 2025",
+                "position": "Advanced Diploma in Software Development",
+                "location": "Hamilton, ON",
                 "resumeItems": [
-                    "Graduated with honors, GPA: 3.8/4.0",
-                    "Relevant coursework: Data Structures and Algorithms, Machine Learning, Cloud Computing, Distributed Systems"
+                    "Graduated with honors, GPA: 92.6/100",
+                    "Relevant coursework: Data Structures and Algorithms, Client and Server side Programming, Android Development, iOS Programming, Parallel Processing"
                 ]
             }
         ]
