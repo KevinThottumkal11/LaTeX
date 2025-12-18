@@ -31,7 +31,7 @@
                 "position": "E-Health Programmer Analyst (Co-op)",
                 "location": "Hamilton, ON",
                 "resumeItems": [
-                    "Built a \\textbf{React/TypeScript} dashboard for healthcare data analysis and visualization following HIPAA security protocols.",
+                    "Built a \\textbf{React/TypeScript} dashboard for healthcare data analysis & visualization following HIPAA security protocols.",
                     "Collaborated on the develoment of an Android app using \\textbf{Kotlin & Jetpack Compose} with \\textbf{MVVM architecture}, improving load times by \\textbf{25%}.",
                     "Developed a dynamic audio prompts system with \\textbf{AWS Polly} services, increasing engagement by \\textbf{60%} and reducing staff intervention."
                 ]
