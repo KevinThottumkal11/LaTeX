@@ -57,6 +57,7 @@
         "subheadings": [
             {
                 "company": "VideoMind-AI",
+                "link": "https://github.com/KevinThottumkal11/VideoMind-AI",
                 "period": "",
                 "techstack": "React, Python, FastAPI, Gemini",
                 "resumeItems": [
@@ -66,6 +67,7 @@
             },
             {
                 "company": "Anti-Tetris",
+                "link": "https://github.com/KevinThottumkal11/antitetris",
                 "period": "",
                 "techstack": "React, Next.js, WebSocket, Node.js",
                 "resumeItems": [
