@@ -5,6 +5,7 @@
 \ifx\techstack\undefined \def\techstack{} \fi
 \ifx\resumeItems\undefined \def\resumeItems{} \fi
 \ifx\rawText\undefined \def\rawText{} \fi
+\ifx\link\undefined \def\link{} \fi
 
 \ifx\techstack\empty
   \ifx\company\empty
@@ -12,14 +13,26 @@
     {\company}{\period}
     {\position}{\location}
   \else
-    \resumeSubheading
-    {\textbf{\company}}{\period}
-    {\position}{\location}
+    \ifx\link\empty
+      \resumeSubheading
+      {\textbf{\company}}{\period}
+      {\position}{\location}
+    \else
+      \resumeSubheading
+      {\href{\link}{\underline{\textbf{\company}}} \small\faExternalLink*}{\period}
+      {\position}{\location}
+    \fi
   \fi
 \else
-  \resumeSubheading
-  {\textbf{\company} $|$ \emph\techstack}{\period}
-  {\position}{\location}
+  \ifx\link\empty
+    \resumeSubheading
+    {\textbf{\company} $|$ \emph\techstack}{\period}
+    {\position}{\location}
+  \else
+    \resumeSubheading
+    {\href{\link}{\underline{\textbf{\company}}} \small\faExternalLink*{} $|$ \emph\techstack}{\period}
+    {\position}{\location}
+  \fi
 \fi
 
 \ifx\rawText\empty\else
@@ -44,3 +57,4 @@
 \def\techstack{}
 \def\resumeItems{}
 \def\rawText{}
+\def\link{}
