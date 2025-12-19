@@ -18,7 +18,7 @@
             {
                 "company": "Mohawk College",
                 "period": "January 2025 - April 2025",
-                "position": "Applied Reserach (Facial Recognition)",
+                "position": "Applied Research (Facial Recognition)",
                 "location": "Hamilton, ON",
                 "resumeItems": [
                     "Researched and developed a facial recognition & labeling system for historical military photographs using \\textbf{OpenCV}, and \\textbf{DeepFace} achieving \\textbf{100%} accuracy for portraits and small groups.",
@@ -32,7 +32,7 @@
                 "location": "Hamilton, ON",
                 "resumeItems": [
                     "Built a \\textbf{React/TypeScript} dashboard for healthcare data analysis & visualization following HIPAA security protocols.\\\\",
-                    "Collaborated on the develoment of an Android app using \\textbf{Kotlin & Jetpack Compose} with \\textbf{MVVM architecture}, improving load times by \\textbf{25%}.",
+                    "Collaborated on the development of an Android app using \\textbf{Kotlin & Jetpack Compose} with \\textbf{MVVM architecture}, improving load times by \\textbf{25%}.",
                     "Developed a dynamic audio prompts system with \\textbf{AWS Polly} services, increasing engagement by \\textbf{60%} and reducing staff intervention."
                 ]
             }
