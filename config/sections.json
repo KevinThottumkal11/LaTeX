@@ -5,7 +5,7 @@
             {
                 "company": "Hivenue",
                 "period": "January 2025 - Present",
-                "position": "Full Stack Engineer",
+                "position": "Full-Stack Developer",
                 "location": "Montreal, QC (Remote)",
                 "resumeItems": [
                     "Built a MongoDB aggregation pipeline for data processing, achieving \\textbf{80% reduction in latency and 100% booking conflict detection}.",
@@ -18,11 +18,11 @@
             {
                 "company": "Mohawk College",
                 "period": "January 2025 - April 2025",
-                "position": "Applied Reserach (Facial Recognition)",
+                "position": "Applied Research",
                 "location": "Hamilton, ON",
                 "resumeItems": [
                     "Researched and developed a facial recognition & labeling system for historical military photographs using \\textbf{OpenCV}, and \\textbf{DeepFace} achieving \\textbf{100%} accuracy for portraits and small groups.",
-                    "Built a full-stack application using \\textbf{React} with \\textbf{PHP} backend, and \\textbf{Python facial recognition pipeline} for image processing, data retrieval & management."
+                    "Built a full-stack application using \\textbf{React} with \\textbf{PHP} backend, and \\textbf{Python} facial recognition pipeline for image processing, data retrieval & management."
                 ]
             },
             {
@@ -32,7 +32,7 @@
                 "location": "Hamilton, ON",
                 "resumeItems": [
                     "Built a \\textbf{React/TypeScript} dashboard for healthcare data analysis & visualization following HIPAA security protocols.\\\\",
-                    "Collaborated on the develoment of an Android app using \\textbf{Kotlin & Jetpack Compose} with \\textbf{MVVM architecture}, improving load times by \\textbf{25%}.",
+                    "Collaborated on the development of an Android app using \\textbf{Kotlin & Jetpack Compose} with \\textbf{MVVM architecture}, improving load times by \\textbf{25%}.",
                     "Developed a dynamic audio prompts system with \\textbf{AWS Polly} services, increasing engagement by \\textbf{60%} and reducing staff intervention."
                 ]
             }
@@ -43,8 +43,8 @@
         "subheadings": [
             {
                 "resumeItems": [
-                    "\\textbf{Languages}: Python, JavaScript, Java, C#, PHP, SQL, HTML/CSS, TypeScript.",
-                    "\\textbf{Frameworks}: React/React Native, Node.js, .NET, FastAPI, REST API.",
+                    "\\textbf{Languages}: Python, JavaScript, Java, C#, Kotlin, PHP, SQL, HTML/CSS, TypeScript.",
+                    "\\textbf{Frameworks}: React/React Native, Node.js, .NET, FastAPI, Jetpack Compose, REST API.",
                     "\\textbf{Database}: MySQL, PostgreSQL, MS SQL Server, MongoDB, Redis.",
                     "\\textbf{QA & Automation}: Jest, JUnit, Postman, Selenium, Katalon Studio, Playwright.",
                     "\\textbf{Tools and Platforms}: AWS (S3, EC2, Lambda), Git, Docker, Jira, Confluence, Bitbucket."
@@ -59,7 +59,7 @@
                 "company": "VideoMind-AI",
                 "link": "https://github.com/KevinThottumkal11/VideoMind-AI",
                 "period": "",
-                "techstack": "React, Python, FastAPI, Gemini",
+                "techstack": "React, Python, FastAPI, Gemini, Chrome extension",
                 "resumeItems": [
                     "Built a video analysis platform that converts YouTube lectures into interactive learning tools with cosine similarity search, achieving \\textbf{85% accuracy} in matching queries to relevant video segments.",
                     "Created a Chrome extension integrating directly into YouTube interface for seamless user experience."
@@ -87,7 +87,7 @@
                 "location": "Hamilton, ON",
                 "resumeItems": [
                     "Graduated with honors, GPA: 92.6/100",
-                    "Relevant coursework: Data Structures and Algorithms, Client and Server side Programming, Android Development, iOS Programming, Parallel Processing"
+                    "Relevant coursework: Data Structures and Algorithms, Client and Server side Programming, Advanced Database, Android Development, iOS Programming, Web Applications for ASP.NET, Parallel Processing"
                 ]
             }
         ]
