@@ -59,7 +59,7 @@
                 "company": "VideoMind-AI",
                 "link": "https://github.com/KevinThottumkal11/VideoMind-AI",
                 "period": "",
-                "techstack": "React, Python, FastAPI, Gemini",
+                "techstack": "React, Python, FastAPI, Gemini, Chrome extension",
                 "resumeItems": [
                     "Built a video analysis platform that converts YouTube lectures into interactive learning tools with cosine similarity search, achieving \\textbf{85% accuracy} in matching queries to relevant video segments.",
                     "Created a Chrome extension integrating directly into YouTube interface for seamless user experience."
