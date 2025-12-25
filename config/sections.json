@@ -43,8 +43,8 @@
         "subheadings": [
             {
                 "resumeItems": [
-                    "\\textbf{Languages}: Python, JavaScript, Java, C#, Kotlin, PHP, SQL, HTML/CSS, TypeScript.",
-                    "\\textbf{Frameworks}: React/React Native, Node.js, .NET, FastAPI, Jetpack Compose, REST API.",
+                    "\\textbf{Languages}: Python, JavaScript, Java, C#, Kotlin, Swift, PHP, SQL, HTML/CSS, TypeScript.",
+                    "\\textbf{Frameworks}: React/React Native, Node.js, .NET, FastAPI, Jetpack Compose, SwiftUI, REST API.",
                     "\\textbf{Database}: MySQL, PostgreSQL, MS SQL Server, MongoDB, Redis.",
                     "\\textbf{QA & Automation}: Jest, JUnit, Postman, Selenium, Katalon Studio, Playwright.",
                     "\\textbf{Tools and Platforms}: AWS (S3, EC2, Lambda), Git, Docker, Jira, Confluence, Bitbucket."
@@ -66,13 +66,13 @@
                 ]
             },
             {
-                "company": "Anti-Tetris",
-                "link": "https://github.com/KevinThottumkal11/antitetris",
+                "company": "StockSync",
+                "link": "https://github.com/KevinThottumkal11/StockSync",
                 "period": "",
-                "techstack": "React, Next.js, WebSocket, Node.js",
+                "techstack": "Kotlin, Jetpack Compose, MVVM",
                 "resumeItems": [
-                    "Developed a multiplayer cybersecurity game with \\textbf{Next.js} and \\textbf{WebSocket} technology to enable real-time cyber-attack simulations.",
-                    "Created an innovative Tetris-based platform where players compete by executing and defending against simulated cyberattacks like DDoS and phishing in a multiplayer environment"
+                    "Developed \\textbf{Android} stock market application using \\textbf{Clean Architecture with MVVM} pattern, implementing strict layer separation with unidirectional dependency flow (Presentation, Domain, Data).",
+                    "Utilized \\textbf{Jetpack Compose} for UI, Room for local caching, \\textbf{Retrofit} for API integration, and \\textbf{Dagger Hilt} for dependency injection to create a scalable and maintainable codebase."
                 ]
             }
         ]
