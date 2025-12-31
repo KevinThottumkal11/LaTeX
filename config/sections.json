@@ -3,9 +3,9 @@
         "sectionName": "Experience",
         "subheadings": [
             {
-                "company": "Hivenue",
+                "company": "Full-Stack Developer (Co-op & Junior)",
                 "period": "January 2025 - Present",
-                "position": "Full-Stack Developer",
+                "position": "Hivenue",
                 "location": "Montreal, QC (Remote)",
                 "resumeItems": [
                     "Built a MongoDB aggregation pipeline with \\textbf{Redis} caching for data processing, achieving \\textbf{80% reduction in latency and 100% booking conflict detection}.",
@@ -16,9 +16,9 @@
                 ]
             },
             {
-                "company": "Mohawk College",
+                "company": "Applied Research",
                 "period": "January 2025 - April 2025",
-                "position": "Applied Research",
+                "position": "Mohawk College",
                 "location": "Hamilton, ON",
                 "resumeItems": [
                     "Researched and developed a facial recognition & labeling system for historical military photographs using \\textbf{OpenCV}, and \\textbf{DeepFace} achieving \\textbf{100%} accuracy for portraits and small groups.",
@@ -26,9 +26,9 @@
                 ]
             },
             {
-                "company": "MEDIC, IDEAWORKS",
+                "company": "E-Health Programmer Analyst (Co-op)",
                 "period": "January 2024 - August 2024",
-                "position": "E-Health Programmer Analyst (Co-op)",
+                "position": "MEDIC, IDEAWORKS",
                 "location": "Hamilton, ON",
                 "resumeItems": [
                     "Built a \\textbf{React/TypeScript} dashboard for healthcare data analysis & visualization following HIPAA security protocols.\\\\",
