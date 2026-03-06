@@ -8,11 +8,11 @@
                 "position": "Hivenue",
                 "location": "Montreal, QC (Remote)",
                 "resumeItems": [
-                    "Built a MongoDB aggregation pipeline with \\textbf{Redis} caching for data processing, achieving \\textbf{80% reduction in latency and 100% booking conflict detection}.",
                     "Rebuilt \\textbf{Angular/TypeScript} frontend and \\textbf{Node.js/Express.js} backend, improving page load times by \\textbf{45%} and increasing user engagement by \\textbf{30%}.",
-                    "Implemented a tenant visualization system with role-based access, following Test Driven Development (TDD) with \\textbf{Jest} for backend APIs.",
+                    "Built a MongoDB aggregation pipeline with \\textbf{Redis} caching for data processing, achieving \\textbf{80% reduction in latency and 100% booking conflict detection}.",
+                    "Implemented a tenant visualization system with role-based access, following \\textbf{Test Driven Development (TDD)} with \\textbf{Jest} for backend APIs.",
                     "Leading Angular upgrade from version 7 to 21, and maintaining \\textbf{CI/CD} pipeline for zero-downtime deployments.",
-                    "Developing AI-powered tenant matching system by analyzing lifestyle preferences and compatibility scores of users."
+                    "Developing AI-powered tenant matching system by analyzing lifestyle preferences and compatibility scores of users using \\textbf{cosine similarity} search."
                 ]
             },
             {
@@ -31,7 +31,7 @@
                 "position": "MEDIC, IDEAWORKS",
                 "location": "Hamilton, ON",
                 "resumeItems": [
-                    "Built a \\textbf{React/TypeScript} dashboard for healthcare data analysis & visualization following HIPAA security protocols.\\\\",
+                    "Built a full-stack dashboard using \\textbf{React/TypeScript} frontend and \\textbf{Node.js/Express.js} backend for data analysis & visualization following HIPAA security protocols.",
                     "Collaborated on the development of an Android app using \\textbf{Kotlin & Jetpack Compose} with \\textbf{MVVM architecture}, improving load times by \\textbf{25%}.",
                     "Developed a dynamic audio prompts system with \\textbf{AWS Polly} services, increasing engagement by \\textbf{60%}."
                 ]
@@ -43,11 +43,11 @@
         "subheadings": [
             {
                 "resumeItems": [
-                    "\\textbf{Languages}: Python, Java, JavaScript, Kotlin, C#, PHP, SQL, HTML/CSS, TypeScript.",
-                    "\\textbf{Frameworks}: React/React Native, Node.js, .NET, FastAPI, Jetpack Compose, REST API.",
+                    "\\textbf{Languages}: JavaScript, Java, Python, TypeScript, Kotlin, PHP, SQL, HTML/CSS.",
+                    "\\textbf{Frameworks}: React/React Native, Node.js, FastAPI, REST API, GraphQL.",
                     "\\textbf{Database}: MySQL, PostgreSQL, MS SQL Server, MongoDB, Redis.",
                     "\\textbf{QA & Automation}: Jest, JUnit, Postman, Selenium, Katalon Studio, Playwright.",
-                    "\\textbf{Tools and Platforms}: AWS (S3, EC2, Lambda), Git, Docker, Jira, Android Studio, Xcode, IntelliJ."
+                    "\\textbf{Tools and Platforms}: AWS (S3, EC2, Lambda), Git, Docker, Jira, Bitbucket, Android Studio, Xcode."
                 ]
             }
         ]
@@ -59,7 +59,7 @@
                 "company": "CareerCanvas",
                 "link": "https://careercanvas.space/",
                 "period": "",
-                "techstack": "React, TypeScript, Node.js, Express.js, MySQL, Stripe, Google OAuth, Cloudinary",
+                "techstack": "React, TypeScript, Node.js, Express.js, MySQL, Jest, Stripe API, Google OAuth",
                 "resumeItems": [
                     "Built a full-stack event ticketing platform enabling organizers to create and monetize events with automated payment processing, real-time inventory management, and attendee Q&A functionality.",
                     "Implemented \\textbf{CI/CD} pipeline with \\textbf{GitHub Actions} for automated testing across multiple Node.js versions and continuous deployment to \\textbf{Railway} for production."
@@ -96,7 +96,7 @@
                 "location": "Hamilton, ON",
                 "resumeItems": [
                     "Graduated with honors, GPA: 92.6/100",
-                    "Relevant coursework: Data Structures and Algorithms, Client and Server-side Programming, Advanced Database, Android Development, iOS Programming, Parallel Processing"
+                    "Relevant coursework: Data Structures and Algorithms, Object-Oriented Programming, Client and Server-side Programming, Advanced Database, Android Development, iOS Programming, Parallel Processing"
                 ]
             }
         ]
