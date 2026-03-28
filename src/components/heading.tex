@@ -9,7 +9,7 @@
     \ifx\portfolio\undefined \def\portfolio{} \fi
 
     {\Huge \scshape \candidateFirstName \vspace{1pt} \candidateLastName} \\ \vspace{1pt}
-    \ifx\candidateAddress\empty\else\candidateAddress \\ \vspace{1pt} \fi
+    \ifx\candidateAddress\empty\else\candidateAddress ~ \fi
     \ifx\candidatePhone\empty\else\small \raisebox{-0.1\height}\faPhone\ \candidatePhone ~ \fi
     \ifx\candidateEmail\empty\else\href{mailto:\candidateEmail}{\raisebox{-0.2\height}\faEnvelope\  \underline{\candidateEmail}} ~ \fi
     \ifx\linkedin\empty\else\href{https://linkedin.com/in/\linkedin/}{\raisebox{-0.2\height}\faLinkedin\ \underline{\linkedin}}  ~ \fi
