@@ -43,8 +43,8 @@
         "subheadings": [
             {
                 "resumeItems": [
-                    "\\textbf{Languages}: JavaScript, Java, Python, TypeScript, Kotlin, PHP, SQL, HTML/CSS.",
-                    "\\textbf{Frameworks}: React/React Native, Node.js, FastAPI, REST API, GraphQL.",
+                    "\\textbf{Languages}: JavaScript, Java, Python, TypeScript, C#, PHP, SQL, HTML/CSS.",
+                    "\\textbf{Frameworks}: React/React Native, Node.js, .NET, FastAPI, REST API.",
                     "\\textbf{Database}: MySQL, PostgreSQL, MS SQL Server, MongoDB, Redis.",
                     "\\textbf{QA & Automation}: Jest, JUnit, Postman, Selenium, Katalon Studio, Playwright.",
                     "\\textbf{Tools and Platforms}: AWS (S3, EC2, Lambda), Git, Docker, Jira, Bitbucket, Android Studio, Xcode."
