@@ -1,12 +1,20 @@
 [
     {
+        "sectionName": "Professional Summary",
+        "subheadings": [
+            {
+                "rawText": "Professional with a passion for technology and innovation. Experienced in building scalable cloud solutions, developing embedded systems, and optimizing machine learning algorithms. Strong problem-solving and communication skills with a proven track record of delivering high-impact projects. Looking to leverage my expertise in cloud architecture and data engineering to drive business growth and innovation."
+            }
+        ]
+    },
+    {
         "sectionName": "Experience",
         "subheadings": [
             {
-                "company": "Full-Stack Developer (Co-op & Junior)",
-                "period": "January 2025 - Present",
-                "position": "Hivenue",
-                "location": "Montreal, QC (Remote)",
+                "company": "Associate",
+                "period": "Marcg 2023 - Present",
+                "position": "Grupo Bimbo Canada",
+                "location": "Hamilton, ON",
                 "resumeItems": [
                     "Rebuilt \\textbf{Angular/TypeScript} frontend and \\textbf{Node.js/Express.js} backend, improving page load times by \\textbf{45%} and increasing user engagement by \\textbf{30%}.",
                     "Built a MongoDB aggregation pipeline with \\textbf{Redis} caching for data processing, achieving \\textbf{80% reduction in latency and 100% booking conflict detection}.",
@@ -16,19 +24,9 @@
                 ]
             },
             {
-                "company": "Applied Research",
-                "period": "January 2025 - April 2025",
-                "position": "Mohawk College",
-                "location": "Hamilton, ON",
-                "resumeItems": [
-                    "Researched and developed a facial recognition & labeling system for historical military photographs using \\textbf{OpenCV}, and \\textbf{DeepFace} achieving \\textbf{100%} accuracy for portraits and small groups.",
-                    "Built a full-stack application using \\textbf{React} with \\textbf{PHP} backend, and \\textbf{Python} facial recognition pipeline for image processing, data retrieval & management."
-                ]
-            },
-            {
-                "company": "E-Health Programmer Analyst (Co-op)",
+                "company": "Programmer Analyst (Co-op)",
                 "period": "January 2024 - August 2024",
-                "position": "MEDIC, IDEAWORKS",
+                "position": "MEDIC - Mohawk COllege",
                 "location": "Hamilton, ON",
                 "resumeItems": [
                     "Built a full-stack dashboard using \\textbf{React/TypeScript} frontend and \\textbf{Node.js/Express.js} backend for data analysis & visualization following HIPAA security protocols.",
