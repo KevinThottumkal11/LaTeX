@@ -53,40 +53,6 @@
         ]
     },
     {
-        "sectionName": "Projects",
-        "subheadings": [
-            {
-                "company": "CareerCanvas",
-                "link": "https://careercanvas.space/",
-                "period": "",
-                "techstack": "React, TypeScript, Node.js, Express.js, MySQL, Jest, Stripe API, Google OAuth",
-                "resumeItems": [
-                    "Built a full-stack event ticketing platform enabling organizers to create and monetize events with automated payment processing, real-time inventory management, and attendee Q&A functionality.",
-                    "Implemented \\textbf{CI/CD} pipeline with \\textbf{GitHub Actions} for automated testing across multiple Node.js versions and continuous deployment to \\textbf{Railway} for production."
-                ]
-            },
-            {
-                "company": "VideoMind-AI",
-                "link": "https://github.com/KevinThottumkal11/VideoMind-AI",
-                "period": "",
-                "techstack": "React, Python, FastAPI, Gemini, Chrome extension",
-                "resumeItems": [
-                    "Built a video analysis platform that converts YouTube lectures into interactive learning tools with cosine similarity search, achieving \\textbf{85% accuracy} in matching queries to relevant video segments.",
-                    "Created a Chrome extension integrating directly into YouTube interface for seamless user experience."
-                ]
-            },
-            {
-                "company": "Anti-Tetris",
-                "link": "https://github.com/KevinThottumkal11/antitetris",
-                "period": "",
-                "techstack": "React, Next.js, WebSocket, Node.js",
-                "resumeItems": [
-                    "Secured \\textbf{1st place} out of \\textbf{300+} participants at NewHacks 2024 by developing a multiplayer cybersecurity game to defend against simulated cyberattacks (DDoS, phishing) using \\textbf{WebSocket} technology."
-                ]
-            }
-        ]
-    },
-    {
         "sectionName": "Education",
         "subheadings": [
             {
