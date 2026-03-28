@@ -3,7 +3,7 @@
         "sectionName": "Professional Summary",
         "subheadings": [
             {
-                "rawText": "Motivated and Safety-conscious professional with hands-on experience in a fast-paced manufacturing environment at Grupo Bimbo Canada. Proven ability to train and onboard new associates, enforce safety protocols, and collaborate effectively across multiple departments to maintain seamless operations. Strong communicator and team player with additional experience coordinating with clients, gathering requirements, and meeting tight deadlines in a technical research setting. Seeking a role where I can leverage my leadership, problem-solving, and cross-functional collaboration skills to drive safe and efficient operations."
+                "rawText": "Motivated and Safety-conscious professional with hands-on experience in a fast-paced environment at Grupo Bimbo Canada. Proven ability to train and onboard new associates, enforce safety protocols, and collaborate effectively across multiple departments to maintain seamless operations. Strong communicator and team player with additional experience coordinating with clients, gathering requirements, and meeting tight deadlines in a technical research setting. Seeking a role where I can leverage my leadership, problem-solving, and cross-functional collaboration skills to drive safe and efficient operations."
             }
         ]
     },
@@ -61,11 +61,8 @@
                 "company": "Mohawk College of Applied Arts and Technology",
                 "period": "January 2023 - December 2025",
                 "position": "Advanced Diploma in Software Development",
-                "location": "Hamilton, ON",
-                "resumeItems": [
-                    "",
-                    ""
-                ]
+                "location": "Hamilton, ON"
+                
             }
         ]
     }
