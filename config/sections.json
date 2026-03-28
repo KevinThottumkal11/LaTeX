@@ -43,11 +43,9 @@
         "subheadings": [
             {
                 "resumeItems": [
-                    "\\textbf{Languages}: JavaScript, Java, Python, TypeScript, C#, PHP, SQL, HTML/CSS.",
-                    "\\textbf{Frameworks}: React/React Native, Node.js, .NET, FastAPI, REST API.",
-                    "\\textbf{Database}: MySQL, PostgreSQL, MS SQL Server, MongoDB, Redis.",
-                    "\\textbf{QA & Automation}: Jest, JUnit, Postman, Selenium, Katalon Studio, Playwright.",
-                    "\\textbf{Tools and Platforms}: AWS (S3, EC2, Lambda), Git, Docker, Jira, Bitbucket, Android Studio, Xcode."
+                    "\\textbf{Microsoft Office Suite}: Word, Excel, Outlook, PowerPoint, Teams.",
+                    "Data Entry, Reporting and Documentation Tools.",
+                    "Inventory Tracking and Production Logging Tools."
                 ]
             }
         ]
@@ -56,13 +54,13 @@
         "sectionName": "Education",
         "subheadings": [
             {
-                "company": "Mohawk College",
+                "company": "Mohawk College of Applied Arts and Technology",
                 "period": "January 2023 - December 2025",
                 "position": "Advanced Diploma in Software Development",
                 "location": "Hamilton, ON",
                 "resumeItems": [
-                    "Graduated with honors, GPA: 92.6/100",
-                    "Relevant coursework: Data Structures and Algorithms, Object-Oriented Programming, Client and Server-side Programming, Advanced Database, Android Development, iOS Programming, Parallel Processing"
+                    "",
+                    ""
                 ]
             }
         ]
